@@ -7,3 +7,27 @@ Answer =>
 1. Store data (numbers, text, arrays, objects, etc.)
 2. Update values dynamically
 3. Use values in calculations or logic
+
+3. Variables allow you to:
+Answer =>
+1. Store data (numbers, text, arrays, objects, etc.)
+2. Update values dynamically
+3. Use values in calculations or logic
+
+4. Ways to Declare Variables
+
+Answer =>
+There are three main ways to declare variables in JavaScript:
+
+a) var – Old way, function-scoped. Can be redeclared and updated.
+    <!-- var name = "Alice";
+    name = "Bob"; // update
+    var name = "Charlie"; // redeclare -->
+
+b) let – Modern, block-scoped. Can be updated, but cannot be redeclared in the same block.
+    <!-- let age = 25;
+    age = 26; // update -->
+
+c) const – Constant, block-scoped. Cannot be reassigned.
+    <!-- const pi = 3.1416;
+    pi = 3.14; // ❌ Error -->
