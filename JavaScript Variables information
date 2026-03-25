@@ -1,0 +1,9 @@
+1. What is a Variable?
+Answer => 
+ A variable in JavaScript is a named container for storing data values. You can think of it as a box with a label: the label is the variable name, and the box holds a value.
+
+2. Variables allow you to:
+Answer =>
+1. Store data (numbers, text, arrays, objects, etc.)
+2. Update values dynamically
+3. Use values in calculations or logic
